@@ -21,7 +21,7 @@
 
 # 📖 Hotwired Todo <a name="about-project"></a>
 
-**Hotwire Todo** is an exercise project built using Ruby on Rails and the Hotwire integration. It consists of a simple To-do app in which you can add, edit, delete and mark tasks as completed. It uses turbo frames for reusing the edit form inside the UI and stimulus to update the state of the task in real time. SQLite is used as the database.
+**Hotwire Todo** is an exercise project built using Ruby on Rails and the Hotwire integration. It consists of a simple To-do app in which you can add, edit, delete and mark tasks as completed. It uses turbo frames for reusing the edit form inside the UI and stimulus to update the state of the task in real-time. SQLite is used as the database.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -30,7 +30,6 @@
 
 
 <details>
- <details>
   <summary>Client/Server</summary>
   <ul>
     <li><a href="https://guides.rubyonrails.org/index.html">Ruby on Rails</a></li>
